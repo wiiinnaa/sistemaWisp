@@ -19,6 +19,8 @@
 
             <script type="text/javascript" src="JS/tarifa.js"></script>
 
+            <script type="text/javascript" src="JS/cliente.js"></script>
+
             <script>
                 $("#menu-toggle").click(function (e) {
                     e.preventDefault();
