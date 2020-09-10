@@ -69,10 +69,10 @@
                         </div>    
                     </div>
                         <div class="menu list-group-flush">
-                            <a href="#" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-apps lead mr-2"></i> Inicio</a>
+                            <a href="home.php" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-apps lead mr-2"></i> Inicio</a>
                             <a href="antena.php" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-wifi lead mr-2"></i> Atenas</a>
-                            <a href="#" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-contacts lead mr-2"></i> Clientes</a>
-                            <a href="#" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-person lead mr-2"></i> Usuarios</a>
+                            <a href="cliente.php" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-contacts lead mr-2"></i> Clientes</a>
+                            <a href="usuario.php" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-person lead mr-2"></i> Usuarios</a>
                             <a href="tarifa.php" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-document lead mr-2"></i> Tarifas</a>
                             <a href="#" class="list-group-item list-group-item-action text-muted bg-light p-3 border-0"><i class="icon ion-md-clipboard lead mr-2"></i> Reportes</a>
                         </div>
