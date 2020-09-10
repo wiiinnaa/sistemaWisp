@@ -17,6 +17,8 @@
 
             <script type="text/javascript" src="JS/antena.js"></script>
 
+            <script type="text/javascript" src="JS/tarifa.js"></script>
+
             <script>
                 $("#menu-toggle").click(function (e) {
                     e.preventDefault();
