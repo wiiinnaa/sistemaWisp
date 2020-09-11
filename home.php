@@ -88,7 +88,13 @@
                     </nav>
 
                     <div id="content" class="container-fluid p-5">
-                        <h1 class="display-4 text-center">¡Bienvenido!</h1>
+                        <h1 class="display-4 text-center">¡Bienvenido!</h1><pre></pre>
+                        <p class="text-center">El sistema Wisp, le ayudara a controlar los equipos, para un correcto desepeño en la administracion de la redes,
+                            para administrar los equipos de red de enlaces, como las estaciones de los clientes en WISP.
+                        </p><pre></pre>
+                        <div class="container text-center"><pre></pre>
+                            <img src="IMG/Ubiquiti.jpg">
+                        </div>
                     </div>
                 </div>
             </div>
